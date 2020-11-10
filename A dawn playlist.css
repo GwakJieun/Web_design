@@ -1,0 +1,83 @@
+*{
+  margin: 7px;
+  padding: 0px;
+}
+body{
+    background-image:url(moodnight.jpg)
+        
+}
+header h1{
+    width: 100%;
+    float: center;
+    color: #fff;
+    margin: 15px;
+    margin-left: 40px;
+    font-style: normal;
+}
+
+.top-text{
+    font-size: 16px;
+    font-weight: bold
+    width: 100%;
+    float: center;
+    color: #fff;
+    margin: 15px;
+    margin-left: 40px;
+    font-style: italic;
+}
+#top-text{
+    border: 2px #fff;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    width: 600px;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin: 0.5em;
+}
+
+
+.title{
+    font-size: 16px;
+    font-weight: bolder;
+    color: #695125;
+}
+
+.sub-title{
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    color: #fff;
+}
+
+.bottom{
+    font-size: 12px;
+    font-weight: bolder;
+    color: #fff;
+    font-style: normal;
+}
+.bottom2{
+    font-size: 12px;
+    font-weight: bolder;
+    color: #fff;
+    font-style: normal;}
+#logo{
+    margin-left: auto;
+    margin-left: auto;
+    width: 482px;
+    height: 297px;
+}
+
+.ul_stlye{
+    list-style: none;
+}
+
+.ul2{
+    
+}
+
+a:hover,a:active{
+    border-bottom-style: none;
+}
